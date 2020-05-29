@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294922858077",
+    "firebase_url": "https://dessertshop.firebaseio.com",
+    "project_id": "dessertshop",
+    "storage_bucket": "dessertshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294922858077:android:8a49c01f6da61f122767b4",
+        "android_client_info": {
+          "package_name": "com.example.dessertshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294922858077-ggkmnv9hl5nnk28fitf7ma82i5a1rnn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dessertshop",
+            "certificate_hash": "6e49536e5181883a997f8fec823b54662c94064f"
+          }
+        },
+        {
+          "client_id": "294922858077-fiuas9cepcdanlikkbsag1csp3k0tmob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0CVvgfrdnuM9a5GjaepnzZXtMld-q-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294922858077-fiuas9cepcdanlikkbsag1csp3k0tmob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
